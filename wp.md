@@ -47,7 +47,6 @@
   ④.获取表名:为f14g（方法同②）</br>
   ![](/files_for_wp/words_10.png)</br>
   不报错，无回显</br>
-  所以第一个位为ascii值为119的值：w</br>
   依次尝试，数据库名为：f14g</br>
 
 4.使用python脚本注入</br>
